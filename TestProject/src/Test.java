@@ -4,5 +4,6 @@ public class Test {
 	int b=5;
 		public void add(){
 			int c=a+b;
+			int x;
 		}
 }
