@@ -1,9 +1,8 @@
 
 public class Test {
-	int a=10;
-	int b=5;
-		public void add(){
-			int c=a+b;
-			int x=4;
-		}
+	
+	 public static void main(String[] args) {
+		    String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+		    System.out.println(cars[0]);
+		  }
 }
